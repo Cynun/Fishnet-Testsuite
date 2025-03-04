@@ -1,5 +1,7 @@
 # Fishnet - 鱼网
 
+[English](./i18n/en-us/readme.md)
+
 #### *"Copy&Distribute, not Move&Transact"*
 *"复制和分发, 而不是移动和交易"*
 
