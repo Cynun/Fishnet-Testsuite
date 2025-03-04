@@ -20,8 +20,9 @@
 
 鱼网的私钥->公钥=ipv6地址.
 
-## 快速设起鱼网兼容路由层
-请见[cjdns文件夹中的readme](./CJDNS/readme.md)
+## 关于cjdns
+cjdns是一个端到端加密的,几乎零配置的仅ipv6 mesh网络.
+cjdns网络中的每个实例都有一对公私钥,和对应的唯一ipv6地址.
 
 > 目前由[cjdns](https://github.com/cjdelisle/cjdns)提供支持.
 >
