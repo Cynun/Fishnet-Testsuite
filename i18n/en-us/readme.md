@@ -1,6 +1,6 @@
 # Fishnet
 
-[中文](../readme.md)
+[中文](/readme.md)
 
 #### *"Copy&Distribute, not Move&Transact"*
 
