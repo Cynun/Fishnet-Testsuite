@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Fishnet is a blockchain-free encrypted decentralized network.
+Fishnet is a blockchain-less encrypted decentralized network and service suite.
 
 Currently Fishnet is still in the early development stage and urgently needs more contributors to participate in development and research work.
 
